@@ -1,7 +1,7 @@
 .wrapper{
   margin:1% 8%;
   width:75%;
-  background:rgba(255,255,255,.4);
+  background:rgba(255,255,255,.75);
   padding:5%;
 }
 img{
@@ -9,11 +9,12 @@ img{
 }
 body{
   margin:0px;
-  background:#3E6D8E no-repeat url(http://media.oregonlive.com/hg_impact/photo/rowdykittenshouse3jpg-c94877d99fb787ee.jpg) top center;
+  background:#222222 no-repeat url(http://media.oregonlive.com/hg_impact/photo/rowdykittenshouse3jpg-c94877d99fb787ee.jpg) top center;
   background-size:100% auto;
 }
 p{
     margin:5px;
+    font-size:17px;
 }
 .footer{
   background:rgb(35,35,35);
@@ -21,6 +22,7 @@ p{
   position:absolute;
   width:100%;
   margin:0;
+  height:230px;
 }
 .footer p{
   color:rgb(255,255,255);
