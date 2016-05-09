@@ -1,9 +1,19 @@
 .wrapper{
-  margin:1% 5%;
-  width:85%;
+  margin:1% 8%;
+  width:75%;
+  background:rgba(255,255,255,.4);
+  padding:5%;
+}
+img{
+  float:right;
 }
 body{
   margin:0px;
+  background:#3E6D8E no-repeat url(http://media.oregonlive.com/hg_impact/photo/rowdykittenshouse3jpg-c94877d99fb787ee.jpg) top center;
+  background-size:100% auto;
+}
+p{
+    margin:5px;
 }
 .footer{
   background:rgb(35,35,35);
@@ -15,4 +25,5 @@ body{
 .footer p{
   color:rgb(255,255,255);
   padding:10px 25px;
+  margin:5px;
 }
